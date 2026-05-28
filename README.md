@@ -1,2 +1,3 @@
 # MariaPaulaRozoBiblioteca
 Examen Final POO
+De las decisiones mas importantes que tome fue en consultas para eliminar y agregar recursos iba a implementar un ordenamiento con una list, no me dio el tiempo, adicionalmente el hashmap que no complete era para realizar las busquedas de los recursos disponibles, adicionalmente era importante para implementar la excepcion del 1923, hacer un condicional de que si era de ese año o menor el recurso no podia ser prestado. Ya como ultima observacion fue claro para mi desde el inicio que debia hacer recursos como una clase padre para que de ahí heredaran las demás.
